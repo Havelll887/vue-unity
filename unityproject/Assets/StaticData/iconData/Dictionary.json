@@ -1,0 +1,163 @@
+{
+  "2J_jiaju": {
+    "ModelName": "2J_jiaju",
+    "BoxName": "2J_jiaju",
+    "LabelName": "现代家具产业链",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ 0, 0, 6 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [0 ,0 ,0],
+    "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+  },
+  "3J_xdjj_jsjj": {
+    "ModelName": "3J_xdjj_jsjj",
+    "BoxName": "3J_xdjj_jsjj",
+    "LabelName": "金属家具",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ 0, 0, 12 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 180, 0 ],
+    "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+  },
+  "3J_xdjj_mzjj": {
+    "ModelName": "3J_xdjj_mzjj",
+    "BoxName": "3J_xdjj_mzjj",
+    "LabelName": "木制家具",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ 15, 0, 12 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 180, 0 ],
+    "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+  },
+  "3J_xdjj_xyjj": {
+    "ModelName": "3J_xdjj_xyjj",
+    "BoxName": "3J_xdjj_xyjj",
+    "LabelName": "校用家具",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -15, 0, 12 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 180, 0 ],
+    "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+  },
+
+  "sy_1_ycl": {
+    "ModelName": "sy_1_ycl",
+    "BoxName": "sy_1_ycl",
+    "LabelName": "原材料供应",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ 0, 0, 7 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "sy_2_pjgy": {
+    "ModelName": "sy_2_pjgy",
+    "BoxName": "sy_2_pjgy",
+    "LabelName": "配件供应",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ 0, 0, 11 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "sy_3_yfsj": {
+    "ModelName": "sy_3_yfsj",
+    "BoxName": "sy_3_yfsj",
+    "LabelName": "研发设计",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ 0, 0, 15 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "xy_1_jjcy": {
+    "ModelName": "xy_1_jjcy",
+    "BoxName": "xy_1_jjcy",
+    "LabelName": "家具储运",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -8, 0, 7 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "xy_2_scyx": {
+    "ModelName": "xy_2_scyx",
+    "BoxName": "xy_2_scyx",
+    "LabelName": "市场营销",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -8, 0, 11 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "xy_3_scyy": {
+    "ModelName": "xy_3_scyy",
+    "BoxName": "xy_3_scyy",
+    "LabelName": "市场运用",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -8, 0, 15 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "xy_4_yhxxgk": {
+    "ModelName": "xy_4_yhxxgk",
+    "BoxName": "xy_4_yhxxgk",
+    "LabelName": "用户信息反馈",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -8, 0, 19 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "zy_1_bjjg": {
+    "ModelName": "zy_1_bjjg",
+    "BoxName": "zy_1_bjjg",
+    "LabelName": "部件加工",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -4, 0, 23 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "zy_2_jjaz": {
+    "ModelName": "zy_2_jjaz",
+    "BoxName": "zy_2_jjaz",
+    "LabelName": "家具装配",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -4, 0, 19 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "zy_3_jjpt": {
+    "ModelName": "zy_3_jjpt",
+    "BoxName": "zy_3_jjpt",
+    "LabelName": "家具喷涂",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -4, 0, 15 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "zy_4_jjjc": {
+    "ModelName": "zy_4_jjjc",
+    "BoxName": "zy_4_jjjc",
+    "LabelName": "家具检测",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -4, 0, 11 ],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  },
+  "zy_5_jjbz": {
+    "ModelName": "zy_5_jjbz",
+    "BoxName": "zy_5_jjbz",
+    "LabelName": "家具包装",
+    "ParentPosition": [ 0, 0, 0 ],
+    "ParentLocalPosition": [ -4, 0, 7],
+    "IconLocalPosition": [ 0, 2.0, 0 ],
+    "IconLocalEulerAngles": [ 0, 0, 0 ],
+    "IconLocalScale": [ 0.2, 0.2, 0.2 ]
+  }
+}

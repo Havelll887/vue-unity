@@ -1,0 +1,6 @@
+{
+  "tokenHeaderName": "Authorization",
+  "tokenStoreName": "access_token",
+  "tokenPrefix": "Bearer ",
+  "dicStoreName": "zfpcs_diclist"
+}

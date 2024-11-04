@@ -1,0 +1,134 @@
+﻿  [
+    {
+      "ModelName": "01fzfz",
+      "BoxName": "01fzfz",
+      "DictCode": "01",
+      "DictName": "纺织服装产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ 10, 0, 6 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "02ysjs",
+      "BoxName": "02ysjs",
+      "DictCode": "02",
+      "DictName": "有色金属产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ 10, 0, 0 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "03dzxx",
+      "BoxName": "03dzxx",
+      "DictCode": "03",
+      "DictName": "电子信息产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ 10, 0, -6 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "04gtcy",
+      "BoxName": "04gtcy",
+      "DictCode": "04",
+      "DictName": "钢铁产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ 5, 0, 10 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "05yy",
+      "BoxName": "05yy",
+      "DictCode": "05",
+      "DictName": "医药产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [0,0,10 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "06hk",
+      "BoxName": "06hk",
+      "DictCode": "06",
+      "DictName": "航空产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ -5, 0, 10 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "07xny",
+      "BoxName": "07xny",
+      "DictCode": "07",
+      "DictName": "新能源产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ -10, 0, 6 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "08zbzz",
+      "BoxName": "08zbzz",
+      "DictCode": "08",
+      "DictName": "装备制造业产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ -10, 0, 0 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "09jiaju",
+      "BoxName": "09jiaju",
+      "DictCode": "09",
+      "DictName": "现代家具产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ -10, 0, -6 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "10jiancai",
+      "BoxName": "10jiancai",
+      "DictCode": "10",
+      "DictName": "建材产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ -5, 0, -10 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "11shihua",
+      "BoxName": "11shihua",
+      "DictCode": "11",
+      "DictName": "石油化工产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ 0, 0, -10 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    },
+    {
+      "ModelName": "12shipin",
+      "BoxName": "12shipin",
+      "DictCode": "12",
+      "DictName": "食品产业链",
+      "ParentPosition": [ 0, 0, 0 ],
+      "ParentLocalPosition": [ 5, 0, -10 ],
+      "IconLocalPosition": [ 0, 2.0, 0 ],
+      "IconLocalEulerAngles": [ 0, 0, 0 ],
+      "IconLocalScale": [ 0.8, 0.8, 0.8 ]
+    }
+  ]
